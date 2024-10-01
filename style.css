@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+   font-size: 40px;
+}
+h3{
+    font-size: 20px;
+}
+#rollButton{
+    font-size: 15px;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(247, 244, 241);
+}
